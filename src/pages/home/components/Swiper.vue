@@ -23,7 +23,7 @@ export default {
         imgUrl: 'http://img1.qunarzz.com/piao/' +
         'fusion/1812/d1/cd4f32e924a5a302.jpg_750x200_3d492837.jpg'
       }, {
-        id: '0001',
+        id: '0002',
         imgUrl: 'http://img1.qunarzz.com/piao/' +
         'fusion/1811/f7/72ce947f4dff4c02.jpg_750x200_aa583dba.jpg'
       }]
